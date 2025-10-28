@@ -7,7 +7,7 @@ public class TCPClientAuto {
 
     public static void main(String[] args) {
         String serverAddress = "192.168.1.33";
-        int port = 5500;                
+        int port = 5550;                
 
         try (
             Socket socket = new Socket(serverAddress, port);
