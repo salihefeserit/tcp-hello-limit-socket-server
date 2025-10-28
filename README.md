@@ -67,13 +67,13 @@ This project is a simple client-server application built in Java that demonstrat
 
 ---
 
-⚠️ Important: Server Address Configuration
+### ⚠️ Important: Server Address Configuration
 
 Before running the client (TCPClientAuto.java), you must edit the file to set the correct server address.
 
 Locate the serverAddress variable and change its value:
 
-If you are running the server on your local machine, set the value to "localhost".
+- If you are running the server on your local machine, set the value to "localhost".
 
-Otherwise, set it to the IP address of the machine where the server is running.
+- Otherwise, set it to the IP address of the machine where the server is running.
         
