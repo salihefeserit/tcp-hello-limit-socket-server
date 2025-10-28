@@ -64,4 +64,16 @@ This project is a simple client-server application built in Java that demonstrat
     - Immediately after receiving the final message, the server closes the socket connection for that client.
         
     - The main server thread continues to listen for new client connections.
+
+---
+
+⚠️ Important: Server Address Configuration
+
+Before running the client (TCPClientAuto.java), you must edit the file to set the correct server address.
+
+Locate the serverAddress variable and change its value:
+
+If you are running the server on your local machine, set the value to "localhost".
+
+Otherwise, set it to the IP address of the machine where the server is running.
         
