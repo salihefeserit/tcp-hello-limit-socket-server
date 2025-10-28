@@ -10,7 +10,7 @@ import java.util.Random;
 
 public class TCPServer {
     public static void main(String[] args) {
-        int port = 6789;
+        int port = 5550;
         List<Integer> saved = new ArrayList<>(); 
 
         // try-with-resources
