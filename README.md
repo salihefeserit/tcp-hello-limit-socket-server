@@ -67,7 +67,7 @@ This project is a simple client-server application built in Java that demonstrat
 
 ---
 
-### ⚠️ Important: Server Address Configuration
+### Server Address Configuration
 
 Before running the client (TCPClientAuto.java), you must edit the file to set the correct server address.
 
