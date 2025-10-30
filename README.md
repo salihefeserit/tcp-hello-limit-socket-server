@@ -65,7 +65,7 @@ This project is a simple client-server application built in Java that demonstrat
     - The main server thread continues to listen for new client connections.
 
 
-### Server Address Configuration
+## Server Address Configuration
 
 Before running the client (TCPClientAuto.java), you must edit the file to set the correct server address.
 
@@ -75,6 +75,6 @@ Locate the serverAddress variable and change its value:
 
 - Otherwise, set it to the IP address of the machine where the server is running.
         
-### Roadmap
+## Roadmap
 
 - [ ] Making the server multi-threaded.
